@@ -6,5 +6,8 @@ CHANGELOG berisi tentang tracking pengembangan program dari tiap proyek.
 
 OLD dokumentasi kode program pada tiap pengembangan program.
 
+HOW TO
+Pada repository ini, hanya disertakan source code, jadi karena file pada Mobotsim berekstensi (*.mbs), maka buka terlebih dahulu file mbs tersebut dalam mobotsim, kemudian salin source code untuk diujicoba.
+
 Salam hangat, semoga bermanfaat.
 @h3rucutu http://pranotoheru.blogspot.com http://h3rucutu.blogspot.com
