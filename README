@@ -1,6 +1,6 @@
 Ini adalah proyek terbuka dari mata kuliah Sistem Robotika, Jurusan Teknik Fisika, Fakultas Teknik UGM.
 
-Proyek terbuka ini terbuka bagi siapa saja baik yang mengambil mata kuliah ini atau siapapun yang tertarik dengan Mobile Robot (Mobot). Anda bisa terlibat aktif untuk mengembangkan program dari tiap proyek yang ada. Silahkan baca TASK pada tiap direktori proyek untuk mengetahui bagaimana proyek tersebut diarahkan.
+Proyek terbuka ini terbuka bagi siapa saja baik yang mengambil mata kuliah ini atau siapapun yang tertarik dengan Mobile Robot (Mobot). Anda bisa terlibat aktif untuk mengembangkan program dari tiap proyek yang ada. Silahkan baca README pada tiap direktori proyek untuk mengetahui bagaimana proyek tersebut diarahkan.
 
 CHANGELOG berisi tentang tracking pengembangan program dari tiap proyek.
 
@@ -10,4 +10,5 @@ HOW TO
 Pada repository ini, hanya disertakan source code, jadi karena file pada Mobotsim berekstensi (*.mbs), maka buka terlebih dahulu file mbs tersebut dalam mobotsim, kemudian salin source code untuk diujicoba.
 
 Salam hangat, semoga bermanfaat.
-@h3rucutu http://pranotoheru.blogspot.com http://h3rucutu.blogspot.com
+@h3rucutu
+http://pranotoheru.blogspot.com | http://h3rucutu.blogspot.com
